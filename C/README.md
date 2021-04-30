@@ -126,6 +126,7 @@
 - [Palindrome Checker using doubly linked list](ds/palindrome_doubly_linked_list.c)
 - [Queue using Circular Array](ds/queue_using_circular_array.c)
 - [Reverse Queue using stack](ds/reverse-queue.c)
+- [Prefix to Postfix Conversion](ds/prefix-to-postfix.c)
 
 ## Searching
 
@@ -248,6 +249,7 @@ _add list here_
 - [Polynomial Addition](math/polynomial_addition.c)
 - [Polynomial Multiplication](math/polynomial_multiplication.c)
 - [Special Number](math/special.c)
+- [Pronic Number](math/Pronic_numbers.c)
 
 ## Operating System
 

@@ -179,6 +179,7 @@ _add list here_
 - [Implementing Stacks using Arrays](ds/StackUsingArrays.java)
 - [Top view of a binary tree](ds/Top_view_of_binary_tree.java)
 - [Reversing Circular Linked List](ds/ReversingCircularLinkedList.java)
+- [Best fit memory allocation](ds/Bestfit.java)
 
 ## Graphs
 
@@ -366,3 +367,4 @@ _add list here_
 - [Word Ladder](other/WordLadder.java)
 - [Linear probing in java](other/linearProbing.java)
 - [Longest Consecutive Sequence](other/Longest_Consecutive_Squence.java)
+- [Quadratic probing in java](other/quadraticProbing.java)
